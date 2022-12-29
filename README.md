@@ -1,0 +1,1 @@
+# normalize_mediapipe_hand_landmark
